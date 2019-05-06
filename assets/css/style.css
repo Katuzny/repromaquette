@@ -1,0 +1,48 @@
+*{
+	background-color: #202020;
+}
+
+.img1{
+	max-width: 80%; 
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.img2{
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+}
+.list{
+	color: #d8d5d5;
+	font-size: 2vw;
+  	height: 40px;
+  	width : 100%;
+  	text-align: center;
+  	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.titre{
+	color: #d8d5d5;
+	font-size: 2.5vw;
+	font-family: 'Source Sans Pro', sans-serif;
+
+}
+.soustitre{
+	color: black;
+	font-size: 1.2vw;
+	font-family: 'Source Sans Pro', sans-serif;
+
+}
+.texte{
+	color: black;
+	font-size: 2.5vw;
+	font-family: 'Source Sans Pro', sans-serif;
+
+}
+.nom{
+	color: white;
+	font-size: 2.5vw;
+	font-family: 'Source Sans Pro', sans-serif;
+}
